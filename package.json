@@ -1,0 +1,20 @@
+{
+  "name": "Rajesh S",
+  "version": "0.0.0",
+  "description": "webrtc",
+  "main": "app.js",
+  "scripts": {
+    "test": "not specified"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "express": "*",
+    "coffee-script": "*",
+    "socket.io": "*",
+    "websocket.io": "*",
+    "jade": "*",
+    "node-uuid": "*"
+  }
+}
